@@ -1,1 +1,1 @@
-# Mindspace
+https://github.com/your-username/Mindspace.git
